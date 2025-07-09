@@ -18,7 +18,7 @@ int MajorityElement(vector<int> nums)
                 if (ans == nums[i])
                 {
                     count++;
-                }
+                }   
                 else
                 {
                     count--;
