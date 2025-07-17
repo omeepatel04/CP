@@ -1,4 +1,4 @@
-// GeeksForGeeks [Binary Search]
+// GeeksForGeeks: Allocate Minimum Pages
 
 #include <bits/stdc++.h>
 
